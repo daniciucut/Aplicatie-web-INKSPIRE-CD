@@ -1,0 +1,356 @@
+{
+    "blog": "Articole",
+    "about": "Despre",
+    "services": "Servicii",
+    "contact": "Contact",
+    "dashboard": "Panou administrare",
+    "logout": "Deconectare",
+    "signin": "Autentificare",
+
+    "search": "Căutare",
+    "start":  "Start",
+    "by":    "De: ",
+
+    "about_inkspire":  "Despre INKSPIRE",
+    "about_intro":  "Inkspire este spațiul tău de inspirație, creativitate și explorare.",
+    "our_story": "Povestea Noastră",
+    "about_description": "Am creat acest spațiu digital din dorința de a reuni idei inovatoare, povești autentice și perspective valoroase din domenii precum tehnologia, arta, călătoriile, dezvoltarea personală, cultura contemporană și lifestyle, inspirând cititorii să exploreze și să descopere lumea într-un mod autentic și captivant.",
+    "who_am_i": "Cine sunt eu?",
+    "who_am_i_description": "Sunt <strong>Daniel Cucicea</strong>, student pasionat de informatică și creativitate digitală.",
+    "what_you_will_find_here": "Ce vei găsi aici?",
+    "tech_trends_reviews_projects":    "🌐 Tendințe tehnologice, recenzii detaliate și proiecte inovatoare",
+    "art_perspectives":                  "🎨 Analize și perspective din lumea artei și a culturii contemporane",
+    "travel_guides_exclusive_tips":      "✈️ Ghiduri de călătorie, destinații exclusive și sfaturi practice",
+    "personal_dev_resources":            "📚 Strategii și resurse valoroase pentru dezvoltare personală și profesională",
+    "business_and_leadership_insights":  "📈 Insights din antreprenoriat, business și leadership",
+    "digital_productivity_tutorials":    "🖥️ Tutoriale și recomandări pentru productivitate și lifestyle digital",
+    "stay_updated_news": "Fii la curent cu noutățile",
+    "subscribe": "Abonează-te",
+    "contact_us": "Contactează-ne",
+    "email": "Email",
+    "phone": "Telefon",
+    "messaging": "WhatsApp / Telegram",
+    "address": "Adresă",
+
+    "contact_page_us": "Contactează-ne",
+    "contact_form_instructions": "Te rugăm să completezi formularul de mai jos și îți vom răspunde în curând.",
+    "label_name": "Nume:",
+    "placeholder_name": "Introdu numele tău",
+    "label_email": "Email:",
+    "placeholder_email": "Introdu adresa ta de email",
+    "label_subject": "Subiect:",
+    "placeholder_subject": "Introdu subiectul",
+    "label_message": "Mesaj:",
+    "placeholder_message": "Scrie mesajul tău aici",
+    "send_message": "Trimite mesaj",
+
+
+    "latest_posts": "Cele mai recente",
+
+    "add_comment": "Adaugă un comentariu",
+    "placeholder_user_name": "Numele tău",
+    "placeholder_comment":   "Scrie comentariul tău aici...",
+    "submit_comment":        "Trimite comentariu",
+    "comments": "Comentarii",
+    "no_comments_yet": "Nu există comentarii încă.",
+
+    "no_posts_in_category": "Nicio postare găsită pentru această categorie",
+
+
+  "support":               "Suport",
+  "support_online":        "Suport online",
+  "support_phone_numbers": "Numere de apel",
+  "support_emails":        "E-mailuri",
+  "support_social":        "Suport Social",
+  "support_location":      "Locație",
+
+
+
+  "blog_safety":      "Siguranță",
+  "blog_repair":      "Reparație",
+  "blog_recent":      "Recente",
+  "blog_popular":     "Populare",
+  "blog_categories":  "Categorii",
+
+
+  "useful_links": "Link-uri utile",
+  "home":         "Acasă",
+
+
+    "sign_in": "Autentificare",
+    "placeholder_username_email": "Nume de utilizator sau email",
+    "placeholder_password": "Parolă",
+    "sign_in_button": "Autentificare",
+    "no_account": "Nu ai cont?",
+    "sign_up": "Înregistrează-te",
+     "error_username_email_required": "Nume de utilizator sau e-mail necesar",
+    "error_password_required": "Parolă necesară",
+    "error_check_details": "Te rugăm să verifici detaliile introduse",
+    "error_user_not_found": "Utilizator negăsit",
+
+      
+    
+    
+    
+  "sign_up_page": "Înregistrează-te",
+  "placeholder_firstname": "Prenumele",
+  "placeholder_lastname": "Numele",
+  "placeholder_username": "Numele de Utilizator",
+  "placeholder_email_sign_up": "Email",
+  "placeholder_create_password": "Creează o Parolă",
+  "placeholder_confirm_password": "Confirmă Parola",
+  "label_avatar": "Avatarul Utilizatorului",
+  "sign_up_button": "Înregistrează-te",
+  "already_have_account": "Ai deja un cont?",
+  "sign_in_sing_up_page": "Autentificare",
+
+  "error_firstname_required": "Te rog să introduci prenumele tău",
+  "error_lastname_required": "Te rog să introduci numele tău de familie",
+  "error_username_required": "Te rog să introduci numele de utilizator",
+  "error_valid_email_required": "Te rog să introduci un email valid",
+  "error_password_min_length": "Parola trebuie să aibă cel puțin 8 caractere",
+  "error_avatar_required": "Te rog să încarci o imagine de profil",
+  "error_passwords_do_not_match": "Parolele nu coincid",
+  "error_username_email_exists": "Nume de utilizator sau email deja existent",
+  "error_file_too_large": "Dimensiunea fișierului este prea mare. Trebuie să fie mai mică de 1MB",
+  "error_invalid_file_format": "Fișierul trebuie să fie în format PNG, JPG sau JPEG",
+  "success_registration": "Înregistrare reușită. Te rog să te autentifici",
+
+
+
+  "add_post": "Adaugă postare",
+  "manage_posts": "Gestionează postările",
+  "add_user": "Adaugă utilizator",
+  "manage_user": "Gestionează utilizatorii",
+  "add_category": "Adaugă categorie",
+  "manage_categories": "Gestionează categoriile",
+  "title": "Titlu",
+  "category": "Categorie",
+  "edit": "Editare",
+  "delete": "Șterge",
+  "no_posts_found": "Nicio postare găsită",
+
+  "add_a_post": "Adaugă o postare",
+  "placeholder_title": "Titlu",
+  "placeholder_content": "Scrie aici conținutul postării tale...",
+  "featured": "Recomandat",
+  "add_preview_image": "Adaugă o imagine de previzualizare",
+  "add_the_post": "Adaugă postarea",
+
+  "placeholder_post_title": "Introdu titlul postării",
+  "select_post_category": "Selectează categoria postării",
+  "enter_post_content": "Introdu conținutul postării",
+  "select_post_preview_image": "Selectează imaginea de previzualizare a postării",
+  "error_file_too_large_2mb": "Dimensiunea fișierului este prea mare. Trebuie să fie mai mică de 2MB",
+  "error_file_format_png_jpg_jpeg": "Fișierul trebuie să fie în format PNG, JPG sau JPEG",
+  "post_added_success": "Postare nouă adăugată cu succes",
+  "new_article_inkspire": "Un nou articol pe Inkspire Blog!",
+  "read_article": "Citește articolul",
+  "new_article_published": "A fost publicat un nou articol pe blogul nostru. Citește-l acum!",
+  "error_sending_to": "Eroare la trimitere către",
+
+
+
+  "edit_post": "Editare postare",
+  "success_post_deleted": "Postarea a fost ștearsă cu succes",
+
+  "change_thumbnail": "Schimbă imaginea de previzualizare",
+  "update_post": "Actualizează postarea",
+  "error_update_post_invalid_form": "Nu s-a putut actualiza postarea. Datele din formular sunt invalide pe pagina de editare.",
+  "error_update_post_thumbnail_too_big": "Nu s-a putut actualiza postarea. Dimensiunea imaginii de previzualizare este prea mare. Trebuie să fie mai mică de 2MB.",
+  "error_update_post_thumbnail_format": "Nu s-a putut actualiza postarea. Imaginea de previzualizare trebuie să fie în format PNG, JPG sau JPEG.",
+  "post_updated_success": "Postare actualizată cu succes",
+
+  "author": "Autor",
+  "admin": "Admin",
+  "user_photo": "Fotografia Utilizatorului",
+  "error_enter_firstname": "Te rog să introduci prenumele",
+  "error_enter_lastname": "Te rog să introduci numele de familie",
+  "error_enter_username": "Te rog să introduci numele de utilizator",
+  "error_enter_valid_email": "Te rog să introduci un email valid",
+  "error_upload_profile_photo": "Te rog să încarci o fotografie de profil",
+  "error_file_too_large_1mb": "Dimensiunea fișierului este prea mare. Trebuie să fie mai mică de 1MB",
+  "success_new_user_added": "Utilizator nou %s %s adăugat cu succes.",
+
+  "manage_users": "Gestionează utilizatorii",
+
+  
+
+
+  "name": "Nume",
+  "username": "Nume utilizator",
+  "no_users_found": "Niciun utilizator găsit",
+  "yes": "Da",
+  "no": "Nu",
+
+  "edit_user": "Editare Utilizator",
+
+  
+  "error_could_not_delete_user": "Nu s-a putut șterge utilizatorul '%s %s'",
+  "success_user_deleted": "Utilizatorul %s %s a fost șters cu succes",
+
+  
+
+
+
+  "update_user": "Actualizează utilizatorul",
+  "error_invalid_form_edit_page": "Date introduse invalide pe pagina de editare.",
+  "error_failed_update_user": "Actualizarea utilizatorului a eșuat.",
+  "success_user_updated": "Utilizatorul %s %s a fost actualizat cu succes",
+
+  "add_a_category": "Adaugă o categorie",
+  "placeholder_description": "Descriere",
+  "add_the_category": "Adaugă categoria",
+  "enter_title": "Introdu titlul",
+  "enter_description": "Introdu descrierea",
+
+  "error_could_not_add_category": "Nu s-a putut adăuga categoria",
+  "success_category_added": "Categoria %s a fost adăugată cu succes",
+  "no_categories_found": "Nicio categorie găsită",
+  "edit_category": "Editare categorie",
+  "update_category": "Actualizează categoria",
+
+  "error_invalid_form_edit_category": "Date introduse invalide pe pagina de editare categorie",
+  "error_could_not_update_category": "Nu s-a putut actualiza categoria",
+  "success_category_updated": "Categoria %s a fost actualizată cu succes",
+
+  "success_category_deleted": "Categoria a fost ștearsă cu succes",
+
+  
+  "no_search_posts_found": "Nicio postare găsită pentru această căutare",
+  "error_translation_failed": "Eroare la Traducere!"
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+
+  
+
+
+
+  
+
+
+   
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+  
+
+
+  
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+      
+
+
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+  
+  

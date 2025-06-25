@@ -1,0 +1,299 @@
+{
+    "blog": "Posts",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "signin": "Sign-in",
+
+     "search": "Search",
+     "start": "Go",
+     "by": "By: ",
+
+      "about_inkspire":  "About INKSPIRE",
+      "about_intro": "Inkspire is your space of inspiration, creativity and exploration.",
+      "our_story": "Our Story",
+      "about_description": "We created this digital space to bring together innovative ideas, authentic stories, and valuable perspectives from fields such as technology, art, travel, personal development, contemporary culture, and lifestyle, inspiring readers to explore and discover the world in an authentic and engaging way.",
+      "who_am_i": "Who am I?",
+      "who_am_i_description": "I am <strong>Daniel Cucicea</strong>, a student passionate about computer science and digital creativity.",
+      "what_you_will_find_here": "What you’ll find here",
+      "tech_trends_reviews_projects":      "🌐 Technological trends, in-depth reviews, and innovative projects",
+      "art_perspectives":                  "🎨 Analyses and perspectives from the world of art and contemporary culture",
+      "travel_guides_exclusive_tips":      "✈️ Travel guides, exclusive destinations, and practical tips",
+      "personal_dev_resources":            "📚 Strategies and valuable resources for personal and professional development",
+      "business_and_leadership_insights":  "📈 Insights on entrepreneurship, business, and leadership",
+      "digital_productivity_tutorials":    "🖥️ Tutorials and recommendations for productivity and digital lifestyle",
+      "stay_updated_news": "Stay updated with the news",
+      "subscribe": "Subscribe",
+      "contact_us": "Contact Us",
+      "email": "Email",
+      "phone": "Phone",
+      "messaging": "WhatsApp / Telegram",
+      "address": "Address",
+
+      "contact_page_us": "Contact Us",
+      "contact_form_instructions": "Please fill out the form below and we will get back to you soon.",
+      "label_name": "Name:",
+      "placeholder_name": "Enter your name",
+      "label_email": "Email:",
+      "placeholder_email": "Enter your email",
+      "label_subject": "Subject:",
+      "placeholder_subject": "Enter the subject",
+      "label_message": "Message:",
+      "placeholder_message": "Type your message here",
+      "send_message": "Send Message",
+
+
+      "latest_posts": "Latest Posts",
+
+      "add_comment": "Add a comment",
+      "placeholder_user_name": "Your name",
+      "placeholder_comment":   "Write your comment here...",
+      "submit_comment":        "Submit comment",
+       "comments": "Comments",
+       "no_comments_yet": "No comments yet.",
+
+      "no_posts_in_category": "No posts found for this category",
+
+     "support":               "Support",
+     "support_online":        "Online Support",
+     "support_phone_numbers": "Phone Numbers",
+     "support_emails":        "Emails",
+     "support_social":        "Social Support",
+     "support_location":      "Location",
+
+
+     "blog_safety":      "Safety",
+     "blog_repair":      "Repair",
+     "blog_recent":      "Recent",
+     "blog_popular":     "Popular",
+     "blog_categories":  "Categories",
+
+     "useful_links": "Useful Links",
+     "home":         "Home",
+
+    "sign_in": "Sign In",
+
+    "placeholder_username_email": "Username or email",
+    "placeholder_password": "Password",
+    "sign_in_button": "Sign In",
+    "no_account": "Don't have an account?",
+    "sign_up": "Sign Up",
+    "error_username_email_required": "Username or email required",
+    "error_password_required": "Password required",
+    "error_check_details": "Please check the entered details",
+    "error_user_not_found": "User not found",
+
+  "sign_up_page": "Sign Up",
+  "placeholder_firstname": "First name",
+  "placeholder_lastname": "Last name",
+  "placeholder_username": "Username",
+  "placeholder_email_sign_up": "Email",
+  "placeholder_create_password": "Create a Password",
+  "placeholder_confirm_password": "Confirm Password",
+  "label_avatar": "User Avatar",
+  "sign_up_button": "Sign Up",
+  "already_have_account": "Already have an account?",
+  "sign_in_sing_up_page": "Sign In",
+
+  "error_firstname_required": "Please enter your first name",
+  "error_lastname_required": "Please enter your last name",
+  "error_username_required": "Please enter your username",
+  "error_valid_email_required": "Please enter a valid email",
+  "error_password_min_length": "The password must be at least 8 characters long",
+  "error_avatar_required": "Please upload a profile image",
+  "error_passwords_do_not_match": "Passwords do not match",
+  "error_username_email_exists": "Username or email already exists",
+  "error_file_too_large": "The file size is too large. It must be less than 1MB",
+  "error_invalid_file_format": "The file must be in PNG, JPG or JPEG format",
+  "success_registration": "Registration successful. Please sign in",
+
+
+
+
+    "add_post": "Add Post",
+    "manage_posts": "Manage Posts",
+    "add_user": "Add User",
+    "manage_user": "Manage User",
+    "add_category": "Add Category",
+    "manage_categories": "Manage Categories",
+    "title": "Title",
+    "category": "Category",
+    "edit": "Edit",
+    "delete": "Delete",
+    "no_posts_found": "No posts found",
+
+
+    "add_a_post": "Add a post",
+    "placeholder_title": "Title",
+    "placeholder_content": "Write your post content here...",
+    "featured": "Featured",
+    "add_preview_image": "Add a preview image",
+    "add_the_post": "Add the post",
+
+    "placeholder_post_title": "Enter the post title",
+    "select_post_category": "Select the post category",
+    "enter_post_content": "Enter the post content",
+    "select_post_preview_image": "Select the post preview image",
+    "error_file_too_large_2mb": "The file size is too large. It must be less than 2MB",
+    "error_file_format_png_jpg_jpeg": "The file must be in PNG, JPG, or JPEG format",
+    "post_added_success": "New post added successfully",
+    "new_article_inkspire": "A new article on Inkspire Blog!",
+    "new_article_published": "A new article has been published on our blog. Read it now!",
+    "read_article": "Read the article",
+    "error_sending_to": "Error sending to",
+
+    "edit_post": "Edit Post",
+    "success_post_deleted": "Post deleted successfully",
+
+    "change_thumbnail": "Change Thumbnail",
+    "update_post": "Update Post",
+
+    "error_update_post_invalid_form": "Couldn't update post. Invalid form data on edit post page.",
+    "error_update_post_thumbnail_too_big": "Couldn't update post. Thumbnail size too big. Should be less than 2MB.",
+    "error_update_post_thumbnail_format": "Couldn't update post. Thumbnail should be PNG, JPG or JPEG.",
+    "post_updated_success": "Post updated successfully",
+
+    "author": "Author",
+    "admin": "Admin",
+    "user_photo": "User Photo",
+    "error_enter_firstname": "Please enter the first name",
+    "error_enter_lastname": "Please enter the last name",
+    "error_enter_username": "Please enter the username",
+    "error_enter_valid_email": "Please enter a valid email",
+    "error_upload_profile_photo": "Please upload a profile photo",
+    "error_file_too_large_1mb": "The file size is too large. It must be less than 1MB",
+    "success_new_user_added": "New user %s %s added successfully.",
+
+    "manage_users": "Manage Users",
+    "name": "Name",
+    "username": "Username",
+    "no_users_found": "No users found",
+    "yes": "Yes",
+    "no": "No",
+
+    "edit_user": "Edit User",
+    "error_could_not_delete_user": "Couldn't delete user '%s %s'",
+
+    "success_user_deleted": "User %s %s deleted successfully",
+
+
+    "update_user": "Update User",
+    "error_invalid_form_edit_page": "Invalid form input on edit page.",
+    "error_failed_update_user": "Failed to update user.",
+    "success_user_updated": "User %s %s updated successfully",
+
+    "add_a_category": "Add a category",
+    "placeholder_description": "Description",
+    "add_the_category": "Add the category",
+    "enter_title": "Enter the title",
+    "enter_description": "Enter the description",
+
+    "error_could_not_add_category": "Could not add the category",
+    "success_category_added": "Category %s was added successfully",
+    "no_categories_found": "No categories found",
+    "edit_category": "Edit Category",
+    "update_category": "Update Category",
+
+    "error_invalid_form_edit_category": "Invalid form input on edit category page",
+    "error_could_not_update_category": "Couldn't update category",
+
+    "success_category_updated": "Category %s updated successfully",
+    "success_category_deleted": "Category deleted successfully",
+    "no_search_posts_found": "No posts found for this search",
+    "error_translation_failed": "Error, translation failed!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
+  
