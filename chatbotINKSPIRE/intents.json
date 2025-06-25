@@ -1,0 +1,288 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Salut",
+        "Bună",
+        "Bună ziua",
+        "Ce faci?",
+        "Hei",
+        "Neața",
+        "Salutare",
+        "Hey!",
+        "Salutare, bot!",
+        "Bună, e cineva aici?",
+        "Hello",
+        "Hi there",
+        "Good day",
+        "Ce mai faci?",
+        "Bună seara",
+        "Yo!",
+        "Ce mai zici?",
+        "Hello there!",
+        "Bună, ce mai faci?",
+        "Heeey, ce mai e nou?"
+      ],
+      "responses": [
+        "Salut! 😊 Cu ce te pot ajuta azi?",
+        "Bună! Sunt aici să răspund la întrebările tale despre Inkspire.",
+        "Hei! Întreabă-mă orice, cu plăcere!",
+        "Yo! Gata să explorezi Inkspire cu mine?",
+        "Bună seara! Hai să vorbim despre ceva inspirațional!",
+        "Hey, ce mai faci? Inkspire e plin de idei noi!"
+      ]
+    },
+    {
+      "tag": "who_are_you",
+      "patterns": [
+        "Cine ești?",
+        "Cine ești tu?",
+        "Spune-mi despre tine",
+        "Cine e acest chatbot?",
+        "Cum te numești?",
+        "Care e rolul tău?",
+        "Ce ești tu?",
+        "Ce funcție ai?",
+        "Cine este Inkspire?",
+        "Care e scopul tău?",
+        "Tu cine mai ești?",
+        "Ce mai e și acest bot?",
+        "Cum te cheamă?",
+        "Ce treabă ai aici?",
+        "Ești un bot adevărat?",
+        "Cine a făcut acest bot?"
+      ],
+      "responses": [
+        "Eu sunt chatbot-ul Inkspire, creat să te ajut cu informații despre site.",
+        "Sunt asistentul virtual Inkspire, gata să răspund la întrebările tale.",
+        "Mă numesc Inkspire Bot și pot să-ți spun orice despre blogul nostru.",
+        "Sunt botul oficial al Inkspire, aici să te ghidez prin conținutul nostru!",
+        "Inkspire Bot la dispoziția ta! Creat să fac navigarea pe site mai ușoară.",
+        "Sunt o creație digitală pentru Inkspire, menită să-ți ofere răspunsuri rapide."
+      ]
+    },
+    {
+      "tag": "about",
+      "patterns": [
+        "Ce este Inkspire?",
+        "Spune-mi despre Inkspire",
+        "Despre ce este site-ul?",
+        "Ce face acest site?",
+        "Care e scopul blogului?",
+        "De ce există Inkspire?",
+        "Ce oferă Inkspire?",
+        "Misiunea Inkspire",
+        "Ce fel de blog e Inkspire?",
+        "Ce pot găsi pe Inkspire?",
+        "Despre ce scrieti voi?",
+        "Ce e special la Inkspire?",
+        "Cum e Inkspire diferit?",
+        "Ce tip de conținut aveți?",
+        "De ce să citesc Inkspire?"
+      ],
+      "responses": [
+        "Inkspire este un spațiu de inspirație și creativitate unde găsești articole din tehnologie, artă, călătorii și dezvoltare personală.",
+        "Pe Inkspire publicăm conținut autentic și captivant pentru a te inspira și informa.",
+        "Scopul nostru este să aducem idei inovatoare direct în inbox-ul tău.",
+        "Inkspire e un blog care combină povești, sfaturi și inspirație din domenii variate.",
+        "Oferim articole care te provoacă să gândești diferit și să explorezi noi pasiuni.",
+        "Misiunea Inkspire e să creeze o comunitate de oameni curioși și creativi."
+      ]
+    },
+    {
+      "tag": "add_post",
+      "patterns": [
+        "Cum public un articol nou?",
+        "Vreau să adaug o postare",
+        "Cum creez un post?",
+        "Unde pot scrie un articol?",
+        "Cum funcționează creația de conținut?",
+        "Procedură postare nouă",
+        "Adaugă post",
+        "Publică articol",
+        "Cum pot contribui cu un articol?",
+        "Vreau să scriu pe Inkspire",
+        "Cum trimit un articol?",
+        "Unde încarc un post nou?",
+        "Pașii pentru a publica ceva",
+        "Pot să adaug conținut?",
+        "Cum fac să apară articolul meu?"
+      ],
+      "responses": [
+        "Pentru a publica un articol, intră în Dashboard → Adaugă articol, completează câmpurile și apasă 'Trimite'.",
+        "Accesează panoul de administrare, selectează 'Add Post', completează titlu, conținut și imagine, apoi publică.",
+        "Mergeți la secțiunea de postări și folosiți butonul 'Add Post' pentru a crea și publica conținut nou.",
+        "Doar utilizatorii autorizați pot publica. Loghează-te în contul tău și mergi la 'Adaugă articol'.",
+        "Completează formularul de postare din Dashboard și asigură-te că articolul respectă ghidul Inkspire.",
+        "Dacă ai acces, mergi la 'New Post', adaugă detaliile și publică după revizuire."
+      ]
+    },
+    {
+      "tag": "admin_access",
+      "patterns": [
+        "Sunt admin?",
+        "Cum știu dacă am acces de admin?",
+        "Am drepturi de administrator?",
+        "Cum devin admin?",
+        "Administrator panel",
+        "Unde intru ca admin?",
+        "Cum accesez zona administrativă?",
+        "Am voie să administrez site-ul?",
+        "Cum obțin acces de admin?",
+        "Există un panou de control?",
+        "Unde e dashboard-ul de admin?",
+        "Cum intru în modul admin?",
+        "Ce drepturi am pe site?",
+        "Pot gestiona conținutul?",
+        "Cum verific dacă sunt administrator?"
+      ],
+      "responses": [
+        "Panoul de administrare e disponibil doar pentru utilizatorii cu rol 'admin'. Dacă nu vezi opțiunile de admin, nu ai acest rol.",
+        "Verifică-ți rolul în profil; doar administratorii pot accesa Dashboard-ul de admin.",
+        "Dacă ai cont cu rol de admin, vei vedea meniul 'Admin' în bara de navigare după autentificare.",
+        "Accesul de admin e oferit doar de echipa Inkspire. Contactează-ne pentru detalii.",
+        "Loghează-te și verifică dacă ai acces la 'Dashboard'. Dacă nu, nu ești admin.",
+        "Doar utilizatorii desemnați au acces administrativ. Scrie-ne la inkspire.blog@gmail.com pentru clarificări."
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "Cum vă pot contacta?",
+        "Unde vă găsesc?",
+        "Am nevoie de ajutor",
+        "Date de contact",
+        "Email de suport",
+        "Telefon de contact",
+        "Cum trimit feedback?",
+        "Cum dau de voi?",
+        "Unde pot cere ajutor?",
+        "Cum vorbesc cu cineva de la Inkspire?",
+        "Există un chat de suport?",
+        "Cum raportez o problemă?",
+        "Unde las o sugestie?",
+        "Cine mă poate ajuta cu site-ul?",
+        "Cum iau legătura cu echipa?"
+      ],
+      "responses": [
+        "Ne poți scrie la inkspire.blog@gmail.com sau ne contactezi prin WhatsApp la +40 769 551 745.",
+        "Găsești datele de contact în secțiunea Contact: email, telefon și locație pe hartă.",
+        "Pentru orice întrebări, folosește formularul de pe pagina de Contact sau email-ul nostru.",
+        "Trimite-ne un mesaj pe email sau folosește formularul de feedback de pe site.",
+        "Echipa Inkspire e disponibilă la inkspire.blog@gmail.com pentru suport și sugestii.",
+        "Raportează problemele prin formularul de contact sau direct pe WhatsApp."
+      ]
+    },
+    {
+      "tag": "subscription",
+      "patterns": [
+        "Cum mă abonez la newsletter?",
+        "Vreau să primesc articole noi",
+        "Cum mă înscriu la Inkspire?",
+        "Unde mă abonez?",
+        "Newsletter Inkspire",
+        "Cum primesc notificări?",
+        "Pot primi email cu postări noi?",
+        "Cum mă abonez la blog?",
+        "Există un abonament gratuit?",
+        "Cum mă înregistrez pentru update-uri?"
+      ],
+      "responses": [
+        "Te poți abona la newsletter în footer-ul site-ului sau pe pagina de Contact. Introdu email-ul și apasă 'Abonează-te'.",
+        "Mergi la secțiunea 'Newsletter' și înscrie-te cu adresa ta de email pentru a primi articole noi.",
+        "Abonarea e simplă: completează formularul de newsletter de pe homepage și vei primi update-uri regulate.",
+        "Introdu email-ul tău în câmpul de abonare din josul paginii pentru a fi la curent cu noutățile Inkspire.",
+        "Newsletter-ul nostru e gratuit! Înscrie-te pe site și vei primi cele mai recente postări."
+      ]
+    },
+    {
+      "tag": "categories",
+      "patterns": [
+        "Ce categorii aveți?",
+        "Ce tipuri de articole publicați?",
+        "Unde văd subiectele blogului?",
+        "Ce fel de conținut aveți?",
+        "Despre ce sunt articolele?",
+        "Care sunt temele Inkspire?",
+        "Ce secțiuni are blogul?",
+        "Unde găsesc articole despre tehnologie?",
+        "Aveți articole despre călătorii?",
+        "Ce subiecte acoperați?"
+      ],
+      "responses": [
+        "Inkspire acoperă tehnologie, artă, călătorii și dezvoltare personală. Explorează categoriile în meniul principal.",
+        "Publicăm articole despre tehnologie, artă, călătorii și creștere personală. Verifică secțiunile pe homepage!",
+        "Blogul are secțiuni precum Tehnologie, Artă, Călătorii și Dezvoltare Personală, accesibile din meniu.",
+        "Găsești conținut variat, de la inovații tech la povești de călătorie, în categoriile noastre principale.",
+        "Explorează meniul site-ului pentru a descoperi toate subiectele, inclusiv tehnologie și călătorii."
+      ]
+    },
+    {
+      "tag": "search",
+      "patterns": [
+        "Cum caut un articol?",
+        "Unde e funcția de căutare?",
+        "Pot căuta pe site?",
+        "Cum găsesc un post anume?",
+        "Căutare articole",
+        "Cum folosesc search-ul?",
+        "Unde pot căuta conținut?",
+        "Cum ajung la un articol specific?",
+        "Există o bară de căutare?",
+        "Cum filtrez articolele?"
+      ],
+      "responses": [
+        "Folosește bara de căutare din header-ul site-ului. Introdu cuvinte-cheie și apasă Enter.",
+        "Caută articole folosind lupa din colțul de sus al paginii. Tastează ce te interesează!",
+        "Funcția de căutare e în meniul principal. Introdu termenii și vei găsi articole relevante.",
+        "Pentru a găsi un articol, folosește search-ul din header și filtrează rezultatele după nevoie.",
+        "Bara de căutare e accesibilă pe toate paginile. Scrie ce cauți și explorează rezultatele."
+      ]
+    },
+    {
+      "tag": "account",
+      "patterns": [
+        "Cum îmi fac cont?",
+        "Vreau să mă înregistrez",
+        "Cum creez un cont nou?",
+        "Unde mă loghez?",
+        "Cum mă autentific?",
+        "Am nevoie de cont pentru site?",
+        "Cum resetez parola?",
+        "Unde schimb parola?",
+        "Ce fac dacă am uitat parola?",
+        "Cum editez profilul meu?"
+      ],
+      "responses": [
+        "Pentru a-ți face cont, mergi la 'Înregistrare' în meniu, completează detaliile și apasă 'Creare cont'.",
+        "Loghează-te sau înregistrează-te folosind butonul 'Cont' din header-ul site-ului.",
+        "Dacă ai uitat parola, folosește opțiunea 'Resetare parolă' de pe pagina de login.",
+        "Editează-ți profilul în secțiunea 'Contul meu' după ce te autentifici.",
+        "Nu ai nevoie de cont pentru a citi, dar un cont îți permite să comentezi și să publici."
+      ]
+    },
+    {
+      "tag": "feedback",
+      "patterns": [
+        "Cum las o recenzie?",
+        "Vreau să dau feedback",
+        "Unde scriu ce părere am?",
+        "Cum spun ce nu mi-a plăcut?",
+        "Pot lăsa un comentariu?",
+        "Cum evaluez un articol?",
+        "Unde dau o sugestie pentru site?",
+        "Cum spun ce să îmbunătățiți?",
+        "Vreau să laud un articol",
+        "Cum scriu un review?"
+      ],
+      "responses": [
+        "Poți lăsa feedback prin formularul de pe pagina de Contact sau direct la inkspire.blog@gmail.com.",
+        "Comentează la finalul articolelor sau trimite-ne părerea ta pe email sau WhatsApp.",
+        "Pentru sugestii sau recenzii, folosește secțiunea de comentarii sau formularul de feedback.",
+        "Apreciem feedback-ul! Scrie-ne pe email sau lasă un comentariu sub articol.",
+        "Vrei să lauzi un articol? Lasă un comentariu sau contactează-ne direct!"
+      ]
+    }
+  ]
+}
